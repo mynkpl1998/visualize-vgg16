@@ -4,6 +4,13 @@ This repository contains code for visualizing the feature maps of VGG16 Convouti
 
 The code is written in and tested only for Google Colab Notebooks only. However, minor changes are needed to run it locally.
 
+# Feature Maps
+Feature Maps of Bear
+![Bear](https://raw.githubusercontent.com/mynkpl1998/visualize-vgg16/master/Images/bear_conv_features.png)
+
+Feature Maps Beer Glass
+![Beer](https://raw.githubusercontent.com/mynkpl1998/visualize-vgg16/master/Images/beer_conv_features.png)
+
 # Dependencies
 The dependencies can be installed using the command given below.
 
