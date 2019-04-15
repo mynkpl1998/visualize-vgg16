@@ -8,7 +8,7 @@ The code is written in and tested only for Google Colab Notebooks only. However,
 Feature Maps of Bear
 ![Bear](https://raw.githubusercontent.com/mynkpl1998/visualize-vgg16/master/Images/bear_conv_features.png)
 
-Feature Maps Beer Glass
+Feature Maps of a Beer Glass
 ![Beer](https://raw.githubusercontent.com/mynkpl1998/visualize-vgg16/master/Images/beer_conv_features.png)
 
 # Dependencies
